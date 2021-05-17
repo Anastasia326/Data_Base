@@ -14,5 +14,6 @@
 2. Узнаем процентное соотношение курсов, на которых обучаются сотрудники.
 3. Узнаем сводное расписание(оператор, аудитория, лектор, предмет).
 4. Узнаем порядок действий оператора, то есть в какие помещения ему надо пойти, чтобы удачно снять лекцию.
-5. Узнаем сколько лекций снимается в каждой аудитории.
+5. Узнаем сколько лекций снимается в каждой аудитории.  
+
 Далее CRUD запросы [CRUD.sql](https://github.com/Anastasia326/Data_Base/blob/master/CRUD.sql), view на каждую таблицу(простые и более сложные) [View_easy.sql](https://github.com/Anastasia326/Data_Base/blob/master/View_easy.sql), [View_hard.sql](https://github.com/Anastasia326/Data_Base/blob/master/View_hard.sql). Тригерры: один на изменение расписания, при добавлении нового задания, второй на замену оператора [Trigers.sql](https://github.com/Anastasia326/Data_Base/blob/master/Trigers.sql).
